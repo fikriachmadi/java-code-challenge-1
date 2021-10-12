@@ -3,7 +3,7 @@ public class JavaBasic {
         String firstname = "Fikri"; 
         String lastname = "Achmadi";
         int age = 21;
-        String address = "Lampung";
+        String address = "Pringsewu";
         String phone = "085156136438";
         
         System.out.println("First Name : " + firstname);
