@@ -4,7 +4,7 @@ public class JavaBasic {
         String lastname = "Achmadi";
         int age = 21;
         String address = "Lampung";
-        int phone = 156136438;
+        String phone = "085156136438";
         
         System.out.println("First Name : " + firstname);
         System.out.println("Last Name : " + lastname);
